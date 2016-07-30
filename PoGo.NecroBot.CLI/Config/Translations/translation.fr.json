@@ -281,7 +281,7 @@
     },
     {
       "Key": "invFullPokestopLooting",
-      "Value": "L'inventaire des objets est plein. Aucun objet n'a pu être récolter!"
+      "Value": "L'inventaire des objets est plein. Aucun objet n'a pu être récolté!"
     },
     {
       "Key": "encounterProblem",
@@ -293,7 +293,7 @@
     },
     {
       "Key": "desiredDestTooFar",
-      "Value": "Votre destination désirée {0}, {1} est plus éloigné que votre position actuelle {2}, {3}."
+      "Value": "Votre destination désirée {0}, {1} est plus éloignée que votre position actuelle {2}, {3}."
     },
     {
       "Key": "pokemonRename",
@@ -350,7 +350,7 @@
     },
     {
       "Key": "statsXpTemplateString",
-      "Value": "{0} (prochain level dans {1}h {2}m | {3}/{4} XP)"
+      "Value": "{0} (prochain niveau dans {1}h {2}m | {3}/{4} XP)"
     },
     {
       "Key": "requireInputText",
@@ -359,7 +359,7 @@
     {
       "Key": "googleTwoFactorAuth",
       "Value":
-        "La validation en deux étapes de votre compte Google est activé, vous devez insérer un mot de passe spécifique à l'application dans auth.json"
+        "La validation en deux étapes de votre compte Google est activée, vous devez insérer un mot de passe spécifique à l'application dans auth.json"
     },
     {
       "Key": "googleTwoFactorAuthExplanation",
